@@ -24,3 +24,11 @@ define('DB_NAME', 'aqar');
 define('DB_USER', 'root');
 define('DB_PASS', '');
 
+
+// SMTP config
+
+define('Host', 'smtp.gmail.com');
+define('PORT', 465);
+define('USER', 'mosallam06@gmail.com');
+define('NAME', $_SERVER['HTTP_HOST']);
+define('PASS', 'thggiodvpht/h0530345592');
